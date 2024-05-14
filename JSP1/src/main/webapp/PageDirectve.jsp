@@ -9,7 +9,7 @@ errorPage = "Error.jsp" isErrorPage ="true"%>
 <body>
 
 	이거 화면에 보이니 ?
-	
+
 	<% 
 
 		int sum = 10/0;//에러 코드를 작성
