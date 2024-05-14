@@ -8,7 +8,7 @@ errorPage = "Error.jsp" isErrorPage ="true"%>
 </head>
 <body>
 
-	니 화면에 보이니 ?
+	이거 화면에 보이니 ?
 	
 	<% 
 
