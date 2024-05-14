@@ -9,7 +9,8 @@ JSP 개념 ~ 활용 학습
 - JSP 페이지의 속성을 지정하는데 사용
 - JSP 페이지의 최상단에 위치하며 <%@  %> 태그 내부에 작성됨
 - Page Directive 속성
- ![page_directive_info](https://github.com/Koeyh/JSP-Practice/assets/156414715/11844b79-a7bb-4ac7-aabd-fe041dc8c038)
+ ![page_directive_info](https://github.com/Koeyh/JSP-Practice/assets/156414715/4839687e-bcf8-4236-8f1c-b6e11f18a3d2)
+
 
 
 ### _JSP 스크립팅 요소_
