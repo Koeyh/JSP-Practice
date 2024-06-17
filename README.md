@@ -32,3 +32,9 @@ JSP 개념 ~ 활용 학습
 - page
 - config
 - exception
+
+#### JSP를 View로 활용하기
+  - 최근 SpringBoot 사용 시 View 구현을 위해 JSP보다 Thymeleaf가 많이 사용되는 추세
+  - 그럼에도 활용되는 곳이 많으니 활용법 숙지 필요
+  - SpringBoot 프로젝트에서 JSP 활용하기
+  - [JSP를 사용한 팀 프로젝트(크라우드 펀딩 사이트 제작)](https://github.com/PUK-Java/PUK-Groupware.git)
